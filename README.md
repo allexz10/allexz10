@@ -1,6 +1,6 @@
 ![Header](https://github.com/allexz10/allexz10/blob/main/assets/aabb.png)
 
-## 👏 Hi. I’m Alex. I'm beginner web developer. I enjoy working with HTML, CSS, JavaScript (jQuery) 🚀 
+## 👏 Hi. I’m Alex. I'm beginner front-end developer. I enjoy working with HTML, CSS, JavaScript (jQuery) 🚀 
 
 
 ### Languages and tools
