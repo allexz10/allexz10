@@ -1,6 +1,6 @@
 [![Header](https://github.com/allexz10/allexz10/blob/main/assets/aabb.png)](https://alexeybojarcenko.site)
 
-## 👏 Hi. I’m Alex. I'm beginner Front-End developer. I enjoy working with HTML, CSS, JavaScript (jQuery) 🚀 
+## 👏 Hi. I’m Alex. I'm beginner Front-End developer. I enjoy working with HTML, CSS, JavaScript 🚀 
 
 
 ### Languages and tools
