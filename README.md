@@ -1,4 +1,4 @@
-[![Header](https://github.com/allexz10/allexz10/blob/main/assets/aabb.png)(https://www.linkedin.com/in/aleksejs--bojarcenko/)]
+[![Header](https://github.com/allexz10/allexz10/blob/main/assets/aabb.png)](https://www.linkedin.com/in/aleksejs--bojarcenko/)
 
 ## 👏 Hi. I’m Alex. I'm beginner Front-End developer. I enjoy working with HTML, CSS, JavaScript 🚀 
 
